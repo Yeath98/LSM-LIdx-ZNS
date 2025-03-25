@@ -1,0 +1,1 @@
+/usr/bin/c++ "CMakeFiles/ZNS-SSD.dir/main.cpp.o" "CMakeFiles/ZNS-SSD.dir/include/utils.cpp.o" -o ../bin/ZNS-SSD  ../lib/libLSM-Tree.a ../lib/libfemu.a -lpthread 

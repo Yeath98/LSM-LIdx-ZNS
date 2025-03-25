@@ -1,0 +1,11 @@
+/root/Yyzh-test/LSM-based-on-ZNS-SSD-remove_pqueue/build/CMakeFiles/edit_cache.dir
+/root/Yyzh-test/LSM-based-on-ZNS-SSD-remove_pqueue/build/CMakeFiles/rebuild_cache.dir
+/root/Yyzh-test/LSM-based-on-ZNS-SSD-remove_pqueue/build/src/CMakeFiles/ZNS-SSD.dir
+/root/Yyzh-test/LSM-based-on-ZNS-SSD-remove_pqueue/build/src/CMakeFiles/edit_cache.dir
+/root/Yyzh-test/LSM-based-on-ZNS-SSD-remove_pqueue/build/src/CMakeFiles/rebuild_cache.dir
+/root/Yyzh-test/LSM-based-on-ZNS-SSD-remove_pqueue/build/src/femu/CMakeFiles/femu.dir
+/root/Yyzh-test/LSM-based-on-ZNS-SSD-remove_pqueue/build/src/femu/CMakeFiles/edit_cache.dir
+/root/Yyzh-test/LSM-based-on-ZNS-SSD-remove_pqueue/build/src/femu/CMakeFiles/rebuild_cache.dir
+/root/Yyzh-test/LSM-based-on-ZNS-SSD-remove_pqueue/build/src/LSM-Tree/CMakeFiles/LSM-Tree.dir
+/root/Yyzh-test/LSM-based-on-ZNS-SSD-remove_pqueue/build/src/LSM-Tree/CMakeFiles/edit_cache.dir
+/root/Yyzh-test/LSM-based-on-ZNS-SSD-remove_pqueue/build/src/LSM-Tree/CMakeFiles/rebuild_cache.dir

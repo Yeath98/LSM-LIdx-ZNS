@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/libLSM-Tree.a "CMakeFiles/LSM-Tree.dir/kvstore.cc.o" "CMakeFiles/LSM-Tree.dir/SkipList.cpp.o" "CMakeFiles/LSM-Tree.dir/Table.cpp.o"
+/usr/bin/ranlib ../../lib/libLSM-Tree.a

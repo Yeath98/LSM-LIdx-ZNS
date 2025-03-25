@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/libfemu.a CMakeFiles/femu.dir/femu.c.o CMakeFiles/femu.dir/ftl.c.o
+/usr/bin/ranlib ../../lib/libfemu.a
