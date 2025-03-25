@@ -1,0 +1,1 @@
+/bin/c++  -Wl,-rpath,/usr/lib64/python3.6/config-3.6m-x86_64-linux-gnu "CMakeFiles/ZNS-SSD.dir/main.cpp.o" "CMakeFiles/ZNS-SSD.dir/include/utils.cpp.o" -o ../bin/ZNS-SSD   -L/usr/lib64/python3.6/config-3.6m-x86_64-linux-gnu  -Wl,-rpath,/usr/lib64/python3.6/config-3.6m-x86_64-linux-gnu ../lib/libLSM-Tree.a ../lib/libfemu.a -lpython3.6m -lpthread 
