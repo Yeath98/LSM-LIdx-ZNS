@@ -12,10 +12,9 @@ private:
         //std::fstream load("../../../load.dat");
         //std::fstream run("../../../brun.dat");
 
-        std::fstream load("/run/media/root/bbec4a69-88a4-49a5-a0b2-ba370f035ffd/Yyzh-test/LSM-based-on-ZNS-SSD-remove_pqueue/test_dataset.dat");
-        std::fstream run("/run/media/root/bbec4a69-88a4-49a5-a0b2-ba370f035ffd/Yyzh-test/LSM-based-on-ZNS-SSD-remove_pqueue/test_operations.dat");
-        // std::fstream load("/run/media/root/bbec4a69-88a4-49a5-a0b2-ba370f035ffd/Yyzh-test/LSM-based-on-ZNS-SSD-remove_pqueue/data/test_dataset.dat");
-        // std::fstream run("/run/media/root/bbec4a69-88a4-49a5-a0b2-ba370f035ffd/Yyzh-test/LSM-based-on-ZNS-SSD-remove_pqueue/data/test_operations.dat");
+        std::fstream load("/run/media/root/bbec4a69-88a4-49a5-a0b2-ba370f035ffd/test_dataset.dat");
+        std::fstream run("/run/media/root/bbec4a69-88a4-49a5-a0b2-ba370f035ffd/test_operations.dat");
+
 
         if(!load.is_open() || !run.is_open())
             cerr<<"file is not open correctly\n";
